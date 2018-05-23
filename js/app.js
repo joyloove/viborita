@@ -1,5 +1,5 @@
 //Variables globales
-var velocidad = 80;
+var velocidad = 150;
 var tamano = 10;
 
 class objeto {
